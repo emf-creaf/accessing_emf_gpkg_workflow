@@ -7,6 +7,6 @@
 *.rmarkdown
 *.md
 *.html
-using_emf_public_data_files
+*_cache/
 testing_render.R
 data-raw/*testing.R
