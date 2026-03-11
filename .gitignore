@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+*.csv
+*.rmarkdown
+*.md
+*.html
+using_emf_public_data_files
+testing_render.R
+data-raw/*testing.R
