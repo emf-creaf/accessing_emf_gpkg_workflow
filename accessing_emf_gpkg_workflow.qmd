@@ -207,5 +207,3 @@ data_posada_days <- purrr::map(
 data_posada_days
 ```
 
-## Summary
-
